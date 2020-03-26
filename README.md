@@ -3,8 +3,11 @@ golang email solution. simple and quick.
 
 
 ## API
+- ValidateFormat(email string)
+- ValidateHost(email string)
+
 
 ## TSAK
-- [ ] check email valid
+- [x] check email valid
 - [ ] send email
 - [ ] recive email
